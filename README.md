@@ -5,9 +5,9 @@
 
 ### 👨‍💻 About me:
 
-I am a newly-qualified QA engineer in search of challenging and exciting projects to deal with! 
+I am a newly-qualified QA engineer in search of challenging and exciting projects! 
 
-I am an infinite student hungry for up-to-date knowledge about the world. There is no field that I'm not interested in: physics, AI, marketing, advertising, sports, medicine, sales, pcychology.
+I am an infinite student hungry for up-to-date knowledge about the world. There is no field that I'm not interested in: physics, AI, marketing, advertising, sports, medicine, sales, psychology.
 
 
 
@@ -80,5 +80,11 @@ I am an infinite student hungry for up-to-date knowledge about the world. There 
 
 
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NatalieSrk)
+<h2>Test Artifacts</h2>
+<ul>
+  <li><a href="https://github.com/NatalieSrk/Web">Web Testing</a> – exploratory and functional testing</li>
+  <li><a href="https://github.com/NatalieSrk/API">API Testing</a> – REST and SOAP via Postman</li>
+  <li><a href="https://github.com/NatalieSrk/DATABASE">DATABASE</a> – queries and DB validation scripts</li>
+  <li><a href="https://github.com/NatalieSrk/Mobile-App-Testing">Mobile App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/NatalieSrk/git_bash">GIT and Bash</a> – scripts for QA tasks, basic version control commands</li>
+</ul>
