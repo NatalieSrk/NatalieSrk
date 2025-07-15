@@ -9,7 +9,7 @@ I am here to become a  knowledgable addition to your staff to participate in mak
 
 - have a Bachelor's degree and a Software Testing certificate
 
-- currently studying Java to grow into AQA in the future
+- currently studying Java and Python to grow into AQA in the future
 
 - an infinite student hungry for  knowledge about up-to-date technologies. There is no field that I'm not interested in such as sports, medicine,  psychology.
    I also have experience in AI testing, marketing, advertising, linguistics, retail 
