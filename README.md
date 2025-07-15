@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Natalie!
 I am a qualified **Manual Quality Assurance Engineer**  in search of challenging and exciting projects! 
 
-I am here to become a proactive knowledgable addition to your staff to participate in making your product the best in the business market.
+I am here to become a  knowledgable addition to your staff to participate in making your digital product of the highest quality.
 
 ---
 
