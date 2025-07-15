@@ -52,7 +52,7 @@ I am here to become a  knowledgable addition to your staff to participate in mak
 
 | Курс                                                            | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-|<li>  <a href="https://drive.google.com/file/d/1YegAvQr1IS6ub6AByhxq-jjgOWA8X8st/view?usp=sharing">Функциональное тестирование ПО</li> | 04/2025 - 07/2025 |
+|<li>  <a href="">Функциональное тестирование ПО</li> | 04/2025 - 07/2025 |
 
 
 
