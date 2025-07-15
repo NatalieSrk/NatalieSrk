@@ -47,7 +47,7 @@ I am here to become a knowledgable addition to your staff to participate in maki
 | 💾 Работа с данными | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | ✏️ Работа с кодом | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-### <h2> <img width="4%" src="">   Пройденные курсы</h2>
+### <h2> <img width="4%" src="">  💻 Пройденные курсы</h2>
 
 | Курс                                                            | Дата              |
 | ----------------------------------------------------------------| :---------------: |
