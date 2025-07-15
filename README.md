@@ -12,7 +12,7 @@ I am here to become a  knowledgable addition to your staff to participate in mak
 - currently studying Java 
 
 - an infinite student hungry for  knowledge about up-to-date technologies. There is no field that I'm not interested in such as sports, medicine,  psychology.
-   I also have experience in AI testing, marketing, advertising, lingustics, retail 
+   I also have experience in AI testing, marketing, advertising, linguistics, retail 
 
 - advanced in English language 
 
