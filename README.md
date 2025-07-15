@@ -1,21 +1,22 @@
 ## Hi there 👋 My name is Natalie!
 I am a qualified **Manual Quality Assurance Engineer**  in search of challenging and exciting projects! 
 
-I am here to become a knowledgable addition to your staff to participate in making your product the best in the business market.
+I am here to become a proactive knowledgable addition to your staff to participate in making your product the best in the business market.
 
 ---
 
 ### About me:
 
-- have a bachelor's degree and a Software Testing certificate
+- have a Bachelor's degree and a Software Testing certificate
 
 - currently studying Java 
 
-- an infinite student hungry for up-to-date knowledge about the world. There is no field that I'm not interested in and also have experience in AI testing, marketing, advertising, lingustics, sports, medicine, retail, psychology 
+- an infinite student hungry for  knowledge about up-to-date technologies. There is no field that I'm not interested in such as sports, medicine,  psychology.
+   I also have experience in AI testing, marketing, advertising, lingustics, retail 
 
-- advanced in English language (C1)
+- advanced in English language 
 
-- always trying to be active, do sports, and  travel in my free time 
+- always trying to be active, do sports and  travel in my free time discovering new places and horizons for me
 
 ---
 
