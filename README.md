@@ -50,9 +50,9 @@ I am here to become a  knowledgable addition to your staff to participate in mak
 
 ### <h2> 💻Courses</h2>
 
-| Course                                                          | Date              |
-| ----------------------------------------------------------------| :---------------: |
-|<li>  <a href="">Software Functional Testing</li> | 04/2025 - 07/2025 |
+| Course                                                                                                                                                                             | Date              |
+| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :---------------: |
+|<a href="https://www.rusau.net/qa-from-scratch">Artsiom Rusau QA Life</a>, Software Functional Testing Course, <a href="https://drive.google.com/file/d/1ETSaE8nj4UCNZAHeQ07s9l-gHPMvv3m1/view?usp=sharing">certificate</a>                         | 04/2025 - 07/2025 |
 
 
 
